@@ -2,3 +2,5 @@ dsfa
 
 
 new function
+
+while true - puk puk
