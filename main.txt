@@ -1,6 +1,10 @@
 dsfa
 
 
+<<<<<<< HEAD
 new function
 
 while true - puk puk
+=======
+joskiy kod
+>>>>>>> feature
